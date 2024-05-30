@@ -31,4 +31,4 @@ Information on the dataset include:
 
 ## Results
 
-Please go through the [An Analysis of Unicorn Companies.pdf]([https://www.mavenanalytics.io/data-playground](https://github.com/koulmesahil/analysis_of_unicorn_companies_using_SQL/blob/main/An%20Analysis%20of%20Unicorn%20Companies.pdf)) document for a comprehensive report.
+Please go through the [An Analysis of Unicorn Companies.pdf](https://github.com/koulmesahil/analysis_of_unicorn_companies_using_SQL/blob/main/An%20Analysis%20of%20Unicorn%20Companies.pdf) document for a comprehensive report.
